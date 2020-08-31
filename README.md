@@ -1,6 +1,3 @@
-# tecnicaljainil-insta
-Instagram phishing page 
-
 <p align="left">
 <a href="#"><img title="Made in gujrate" src="https://img.shields.io/badge/MADE%20IN-gujrate-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -24,13 +21,13 @@ Instagram phishing page
 
 * `apt update`
 * `apt install git curl php openssh -y`
-* `git clone git://github.com/tecnicaljainil/tecnicaljainil.git`
-* `cd tecnicaljainil`
-#### > Run : `bash tecnicaljainil.sh`
+* `git clone git://github.com/tecnicaljainil/tecnicaljainilinsta.git`
+* `cd tecnicaljainilinsta`
+#### > Run : `bash tecnicaljainilinsta.sh`
 
 ## Single Command :
 ```
-apt update ; apt install git curl php openssh -y ; git clone git://github.com/tecnicaljainil/tecnicaljainil.git ; cd tecnicaljainil ; bash tecnicaljainil.sh
+apt update ; apt install git curl php openssh -y ; git clone git://github.com/tecnicaljainil/tecnicaljainilinsta.git ; cd tecnicaljainilinsta ; bash tecnicaljainilinsta.sh
 ```
 <br>
 <p align="center">
